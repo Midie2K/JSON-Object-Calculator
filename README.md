@@ -56,9 +56,9 @@ The JSON file should contain an object where each key is an object name and each
     "value1": 0.5,
     "value2": 0.5
   }
-}
+}```
 
- Installation
+## Installation
 1. Clone the repository:
 git clone https://github.com/your-repo/json-based-calculator.git
 
