@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "swi", "swi.csproj", "{83431B01-DBC4-47F6-B5DE-0A092F20BE0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSWI", "..\TestSWI\TestSWI.csproj", "{B4606240-66C4-4426-A26D-1AC76BADC3AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83431B01-DBC4-47F6-B5DE-0A092F20BE0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83431B01-DBC4-47F6-B5DE-0A092F20BE0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83431B01-DBC4-47F6-B5DE-0A092F20BE0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83431B01-DBC4-47F6-B5DE-0A092F20BE0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4606240-66C4-4426-A26D-1AC76BADC3AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4606240-66C4-4426-A26D-1AC76BADC3AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4606240-66C4-4426-A26D-1AC76BADC3AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4606240-66C4-4426-A26D-1AC76BADC3AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3C556DE-C065-4AAC-84A3-854042901D44}
+	EndGlobalSection
+EndGlobal
